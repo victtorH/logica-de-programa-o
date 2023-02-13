@@ -1,0 +1,20 @@
+@charset "UFT-8";
+
+body{
+    background: rgb(233, 134, 54);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section{
+background: rgb(241, 181, 141);
+width: 500px;
+padding: 15px;
+border-radius: 50px;
+margin: 0 auto;
+text-align: center;
+margin-top: 20px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 1,50em;
+}
